@@ -1,5 +1,7 @@
-safe: true
-lsi: true
-remote_theme: pages-theme/minimal@v0.2.0
+title: sagoiz Blog
+description: Blog about everything and nothing at the same time.
+url: "https://sagoiz-tech.github.io/"
+
+theme: minima
 plugins:
-  - jekyll-remote-theme
+  - jekyll-feed
